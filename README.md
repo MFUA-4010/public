@@ -1,3 +1,3 @@
-# Run-Do-List Web
+# MFUA-4010 Public Page
 
-Web-Resource with the latest dev build of Run-Do-List Project
+Now published latest dev build of [Run-Do-List](https://github.com/MFUA-4010/Run-Do-List) Project
